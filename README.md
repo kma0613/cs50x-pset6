@@ -1,7 +1,6 @@
-#code for cs50x pset 6. List of to-dos for this pset:
+# Code for cs50x pset 6. List of to-dos for this pset:
 
 ## lookup
-
 Complete the implementation of lookup in such a way that it returns
 
 text/css for any file whose path ends in .css (or any capitalization thereof),
@@ -22,10 +21,7 @@ image/png for any file whose path ends in .png (or any capitalization thereof), 
 
 NULL otherwise.
 
-Odds are you’ll find functions like strcasecmp, strcpy, and/or strrchr of help!
-
 ## parse
-
 Complete the implementation of parse in such a way that the function parses (i.e., iterates over) line, extracting its absolute-path and query and storing them at abs_path and query, respectively.
 
 Here’s how.
